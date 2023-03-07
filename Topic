@@ -1,0 +1,170 @@
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+<h1>HTML</h1>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea, ratione?
+
+<!-- ----- -->
+
+<p>
+  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nulla dolorem
+  id eligendi molestias, repellendus aperiam amet hic. Similique laborum velit,
+  exercitationem illo officia magnam inventore tempora beatae ad. Id pariatur
+  maiores quidem nisi, eum blanditiis possimus! Nihil
+</p>
+
+<!-- ------- -->
+
+<p>Content</p>
+<b>Content Bold</b>
+
+<!-- ----- -->
+
+<p>Hello, This is <b> Vashu </b></p>
+
+<!-- ------ -->
+
+<b>Bold</b>
+<strong> Strong </strong>
+
+<!-- ------- -->
+
+<i>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, excepturi. I
+</i>
+<br />
+<em>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, necessitatibus?
+  EM
+</em>
+
+<!-- ----- -->
+
+<p>Hello, This is <mark> Vashu</mark></p>
+
+<!-- ------ -->
+
+<p>
+  Lorem ipsum dolor
+  <small> Text Small </small> <br />
+  <del> Online </del> Offline <br />
+  2 <sup> 4 </sup> <br />
+  CO <sub> 2</sub> <br />
+</p>
+<!-- ------- -->
+
+<!-- ----- -->
+
+<!-- 1. The HTML <blockquote> element defines a section that is quoted from another source. -->
+<blockquote cite="https://en.wikipedia.org/wiki/Watch">
+  A watch is a portable timepiece
+</blockquote>
+
+<!-- ---------- -->
+
+<!--2. The HTML <q> tag defines a short quotation. -->
+<q>Hello, This is new</q>
+
+<!-- ---------- -->
+
+<p>
+  <abbr title="Hyper Text Markup Language"> HTML </abbr>
+  is good.
+</p>
+
+<!-- ------- -->
+
+<address>Name: Vashu Verma. Address: ______</address>
+
+<!-- -------- -->
+
+<cite>ABCD</cite>
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto laudantium neque
+odit officiis soluta odio ipsam vel.
+
+<!-- -------- -->
+<bdo dir="ltr">
+  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta error, earum
+  mollitia eos asperiores eligendi odit. Officiis ducimus totam, tenetur
+  eligendi neque repellendus mollitia natus omnis excepturi.
+</bdo>
+
+<!-- ------- -->
+
+<a href="https://youtube.com">Youtube</a>
+<a href="https://google.com">Google</a>
+<a href="https://ebs-fe.vercel.app/">EBS</a>
+
+<!-- --------- -->
+
+<img
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkA6_ZU1xzIbqGQy4OR_6sFX0ue5UQis5iiGj0CzMt1DKMvgu_nnsZ8vm1C6HomQR8Wyo&usqp=CAU"
+  alt="Kirito"
+/>
+
+<img src="./Untitled.png" alt="Laptop" height="300" />
+
+<!-- --------- -->
+
+<table>
+  <!-- row 1 heading -->
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <!-- row 2 data -->
+  <tr>
+    <td>Vashu</td>
+    <td>Verma</td>
+    <td>India 1</td>
+  </tr>
+  <!-- row 3 -->
+  <tr>
+    <td>MNC</td>
+    <td>___</td>
+    <td>India 2</td>
+  </tr>
+  <!-- row 4 -->
+  <tr>
+    <td>MNB</td>
+    <td>---</td>
+    <td>India 3</td>
+  </tr>
+</table>
+
+<!-- -------- -->
+
+<ol>
+  <li>Apple</li>
+  <li>Panner</li>
+</ol>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<!-- --------- -->
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/N-9R2dexZdo"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>
+
+<!-- ----------    <form>
+      <label for="name"> Enter your Name: </label>
+      <input type="text" id="name" /> <br />
+      <br />
+      <label for="number"> Enter your Number: </label>
+      <input type="text" id="number" />
+      <br /><br />
+      <input type="submit" />
+    </form> -->
